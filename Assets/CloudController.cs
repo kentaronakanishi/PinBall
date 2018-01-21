@@ -8,7 +8,7 @@ public class CloudController : MonoBehaviour {
 	//拡大縮小スピード
 	private float magSpeed = 10.0f;
 	//拡大率
-	private float magnification = 0.07f;
+	private float magnification = 0.3f;
 
 
 	// Use this for initialization
